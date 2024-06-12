@@ -1,4 +1,6 @@
-# Hello, I'm Cadence
+# Hello 👋, I'm Cadence
+
+![image](https://github.com/Cadhig/Cadhig/assets/160413853/5867cb5c-027f-4fc2-ae8e-fe0c824ff487)
 
 I am a Full-Stack Developer! I started my tech journey in 2024. I love a challenge, and one of my biggest passions is creating and building something new!
 
@@ -19,3 +21,8 @@ My current Tech Stack includes:
 	<img width="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
 	<img width="60" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
+
+## Projects in Progress
+
+- 📓 Creating an app called <a href="https://github.com/Cadhig/Tasktastic">TaskTastic</a> where users can store notes
+- 💬 Creating <a href="https://github.com/egarza0614/daily_vibes">Daily Vibes</a> A social media app that aims to amplify positivity
