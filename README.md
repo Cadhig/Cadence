@@ -27,3 +27,8 @@ My current Tech Stack includes:
 
 - 📓 Creating an app called <a href="https://github.com/Cadhig/Tasktastic">TaskTastic</a> where users can store notes
 - 💬 Creating <a href="https://github.com/egarza0614/daily_vibes">Daily Vibes</a> A social media app that aims to amplify positivity
+
+## Currently Learning
+- 🐍 Python
+- ⚛ React
+- 💻 CS Fundamentals
