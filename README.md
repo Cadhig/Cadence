@@ -28,7 +28,8 @@ My current Tech Stack includes:
 ## Projects in Progress
 
 - 📓 Creating an app called <a href="https://github.com/Cadhig/Tasktastic">TaskTastic</a> where users can store notes
-- 🎧 Creating <a href=https://github.com/Cadhig/Spotify-UI>Spotify UI</a>
+- 🎧 Creating <a href="https://github.com/Cadhig/Spotify-UI">Spotify UI</a>
+- 🤖 Creating <a href="https://github.com/Cadhig/DrawAI">Draw AI</a> Where users can draw a number, and AI will guess which number is being drawn!
 
 ## Currently Learning
 - 🐍 Python
