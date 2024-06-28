@@ -2,7 +2,9 @@
 
 ![image](https://github.com/Cadhig/Cadhig/assets/160413853/5867cb5c-027f-4fc2-ae8e-fe0c824ff487)
 
-I am a Full-Stack Developer! I started my tech journey in 2024. I love a challenge, and one of my biggest passions is creating and building something new!
+I am a Full-Stack Developer from Houston, Texas! I am constantly looking for an opportunity to learn something knew, i love watching my ideas come to life! While i am primarily a Website / Software developer, i am currently dabbling in the art of AI and machine learning.
+
+Portfolio site in the works! For now, please reference below.
 
 ## Tech Stack
 
