@@ -2,14 +2,11 @@
 
 ![image](https://github.com/Cadhig/Cadhig/assets/160413853/5867cb5c-027f-4fc2-ae8e-fe0c824ff487)
 
-I am a Full-Stack Developer from Houston, Texas! I am constantly looking for an opportunity to learn something knew, i love watching my ideas come to life! While i am primarily a Website / Software developer, i am currently dabbling in the art of AI and machine learning.
-
-Portfolio site in the works! For now, please reference below.
+I'm Cadence, a passionate Full-Stack Developer from Houston, Texas, dedicated to transforming ideas into innovative software solutions. My journey encompasses web and software development, with a growing interest in AI and machine learning.
 
 ## Tech Stack
 
-I love exploring different technologies that are available. I am always looking for an opportunity to learn something new!
-My current Tech Stack includes:
+I enjoy exploring various technologies and learning new skills. Here are some technologies I work with:
 
 
 <div align="center">
@@ -31,7 +28,6 @@ My current Tech Stack includes:
 
 - 📓 Creating an app called <a href="https://github.com/Cadhig/Tasktastic">TaskTastic</a> where users can store notes
 - 🎧 Creating <a href="https://github.com/Cadhig/Spotify-UI">Spotify UI</a>
-- 🤖 Creating <a href="https://github.com/Cadhig/DrawAI">Draw AI</a> Where users can draw a number, and AI will guess which number is being drawn!
 
 ## Currently Learning
 - 🐍 Python
