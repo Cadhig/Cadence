@@ -29,8 +29,6 @@ I enjoy exploring various technologies and learning new skills. Here are some te
 ## Projects in Progress
 
 - 📓 Creating an app called <a href="https://github.com/Cadhig/Tasktastic">TaskTastic</a> where users can store notes
-- 🎧 Creating <a href="https://github.com/Cadhig/Spotify-UI">Spotify UI</a>
 
 ## Currently Learning
 - 🐍 Python
-- 💻 CS Fundamentals
