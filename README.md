@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Cadhig/Cadhig/assets/160413853/5867cb5c-027f-4fc2-ae8e-fe0c824ff487)
 
-I'm Cadence, a passionate Full-Stack Developer from Houston, Texas, dedicated to transforming ideas into innovative software solutions. My journey encompasses web and software development, with a growing interest in AI and machine learning.
+I'm Cadence, a passionate Full-Stack Developer from Houston, Texas, dedicated to transforming my ideas into real projects! My journey encompasses web and software development, with a growing interest in AI and machine learning.
 
 ## Tech Stack
 
