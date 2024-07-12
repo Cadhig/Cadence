@@ -31,4 +31,5 @@ I enjoy exploring various technologies and learning new skills. Here are some te
 - 📓 Creating an app called <a href="https://github.com/Cadhig/Tasktastic">TaskTastic</a> where users can store notes
 
 ## Currently Learning
-- 🐍 Python
+- 🐍 Deeper dive into Python / Flask
+- ⚛ Deeper dive into React
