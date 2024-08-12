@@ -28,7 +28,7 @@ I enjoy exploring various technologies and learning new skills. Here are some te
 
 ## Projects in Progress
 
-- 📓 Creating an app called <a href="https://github.com/Cadhig/Tasktastic">TaskTastic</a> where users can store notes
+- 📓 Creating an app called <a href="https://github.com/Cadhig/BookNest">Book Nest</a> A platform where users can search books, view best sellers, add books to their library, create reviews, and connect with others through social meda posts and book clubs!
 - 💃 Collaborating on an app named <a href="https://github.com/Cadhig/Groove-Gather">Groove Gather</a>. A platform where users can search tutorials, classes, and sign up for gorup meetups within the dance community!
 
 ## Currently Learning
