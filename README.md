@@ -2,7 +2,7 @@
 
 ![image](https://github.com/Cadhig/Cadhig/assets/160413853/5867cb5c-027f-4fc2-ae8e-fe0c824ff487)
 
-I'm Cadence, a passionate Full-Stack Developer from Houston, Texas, dedicated to transforming my ideas into real projects! My journey encompasses web and software development, with a growing interest in AI and machine learning.
+I'm Cadence, a Full-Stack Developer from Houston, Texas, dedicated to transforming my ideas into real projects! My journey encompasses web and software development, with a growing interest in AI and machine learning.
 
 ## Tech Stack
 
@@ -26,8 +26,6 @@ I enjoy exploring various technologies and learning new skills. Here are some te
 ## Projects in Progress
 
 - 📓 Creating an app called <a href="https://github.com/Cadhig/BookNest">Book Nest</a> A platform where users can search books, view best sellers, add books to their library, create reviews, and connect with others through social meda posts and book clubs!
-- 💃 Collaborating on an app named <a href="https://github.com/Cadhig/Groove-Gather">Groove Gather</a>. A platform where users can search tutorials, classes, and sign up for group meetups within the dance community!
 
 ## Currently Learning
-- 🐍 PyGame
-- ⚛ React Native
+- 🎨 UI/UX
